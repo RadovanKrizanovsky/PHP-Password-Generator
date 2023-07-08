@@ -1,4 +1,13 @@
-# PHP-Password-Generator# PHP Password Generator
+
+
+<table align="center">
+  <tr>
+    <th>Entire exam is repost from my other profile</th>
+  </tr>
+</table>
+
+
+# Webte2 Short Exam - PHP Password Generator
 
 This is a simple PHP script that generates unique passwords based on specified criteria.
 
